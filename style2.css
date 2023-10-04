@@ -1,0 +1,15 @@
+p{ 
+    color:rgb(140,120,280);
+}*/
+div{ 
+    height: 300px;
+    width: 300px;
+    background-color: green; 
+    opacity: 0.3;   
+}
+body{
+    background-image: url("dog.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background: url("nature.jpg") no-repeat;
+}

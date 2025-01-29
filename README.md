@@ -1,4 +1,4 @@
 # demo1
-This is my first project which is i have done.
+This is my first project.
 <br>
 This is my readme file.
